@@ -1,0 +1,22 @@
+# C++ solutions
+
+-   above_average.cpp
+    -   [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b)
+-   double_cola.cpp
+    -   [Double Cola](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0)
+-   initials.cpp
+    -   [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+-   like_text.cpp
+    -   [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+-   line_prepend.cpp
+    -   [Testing 1-2-3](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
+-   make_negative.cpp
+    -   [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
+-   middle_el.cpp
+    -   [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
+-   narcis_num.cpp
+    -   [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
+-   remove_vowels.cpp
+    -   [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+-   two_sum.cpp
+    -   [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
