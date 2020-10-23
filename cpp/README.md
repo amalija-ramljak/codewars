@@ -22,5 +22,7 @@
     -   [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 -   remove_vowels.cpp
     -   [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+-   sum_0_n.cpp
+    -   [Sum of numbers from 0 to N](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763)
 -   two_sum.cpp
     -   [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
