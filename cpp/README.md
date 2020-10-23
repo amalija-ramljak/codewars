@@ -2,6 +2,8 @@
 
 -   above_average.cpp
     -   [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b)
+-   b_is_a_squared.cpp
+    -   [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
 -   double_cola.cpp
     -   [Double Cola](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0)
 -   initials.cpp
