@@ -16,6 +16,8 @@
     -   [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 -   middle_el.cpp
     -   [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
+-   min_max.cpp
+    -   [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 -   narcis_num.cpp
     -   [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 -   remove_vowels.cpp
